@@ -1,0 +1,10 @@
+{
+  "name": "Vysto",
+  "install": "python3 -c 'import sys; assert sys.version_info >= (3, 11)'",
+  "mcpServerAllowlist": [
+    {
+      "name": "Vysto",
+      "serverUrl": "https://api.vysto.ai/api/v1/mcp/"
+    }
+  ]
+}
