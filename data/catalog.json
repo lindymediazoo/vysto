@@ -1,0 +1,664 @@
+{
+  "currency": "NAD",
+  "sections": [
+    {
+      "slug": "chickenmeals",
+      "title": "Chicken Meals",
+      "items": [
+        {
+          "id": 1887,
+          "slug": "the-big-one",
+          "title": "The Big One",
+          "price_label": "N$34.90",
+          "description": "1 Piece & Regular Chips",
+          "image": "/media/meals/the-big-one.webp"
+        },
+        {
+          "id": 1890,
+          "slug": "fomo-for-one",
+          "title": "Fomo For One",
+          "price_label": "N$39.90",
+          "description": "1 Piece, 2 Zamba Spicy Winglets & a Portion of Chips",
+          "image": "/media/meals/fomo-for-one.webp"
+        },
+        {
+          "id": 1909,
+          "slug": "big-bite-2-2",
+          "title": "Big Bite 2",
+          "price_label": "N$48.90",
+          "description": "2 PIECES & REGULAR CHIPS",
+          "image": "/media/meals/big-bite-2-2.webp"
+        },
+        {
+          "id": 4003,
+          "slug": "hungry-lion-mix-combo",
+          "title": "Hungry Lion Mix Combo",
+          "price_label": "N$66.90",
+          "description": "1 piece, 1 munch burger, portion of chips, drink",
+          "image": "/media/meals/hungry-lion-mix-combo.jpg"
+        },
+        {
+          "id": 1911,
+          "slug": "big-bite-3-2",
+          "title": "Big Bite 3",
+          "price_label": "N$69.90",
+          "description": "3 PIECES & REGULAR CHIPS",
+          "image": "/media/meals/big-bite-3-2.webp"
+        },
+        {
+          "id": 1895,
+          "slug": "big-bite-feast",
+          "title": "Big Bite Feast",
+          "price_label": "N$74.90",
+          "description": "2 PIECES, REGULAR CHIPS, COLESLAW & 300ML DRINK",
+          "image": "/media/meals/big-bite-feast.webp"
+        }
+      ]
+    },
+    {
+      "slug": "familymeals",
+      "title": "Family Meals",
+      "items": [
+        {
+          "id": 1960,
+          "slug": "4-piece-meal",
+          "title": "4 PIECE MEAL",
+          "price_label": "N$85.00",
+          "description": "4 PIECES & 2 DIXIE ROLLS",
+          "image": "/media/meals/4-piece-meal.webp"
+        },
+        {
+          "id": 1961,
+          "slug": "king-combo",
+          "title": "KING COMBO",
+          "price_label": "N$97.00",
+          "description": "4 Pieces & 2 Regular Chips",
+          "image": "/media/meals/king-combo.webp"
+        },
+        {
+          "id": 1962,
+          "slug": "mega-meal",
+          "title": "MEGA MEAL",
+          "price_label": "N$139.00",
+          "description": "6 Pieces & 2 Regular Chips",
+          "image": "/media/meals/mega-meal.webp"
+        },
+        {
+          "id": 1964,
+          "slug": "party-meal",
+          "title": "PARTY MEAL",
+          "price_label": "N$199.00",
+          "description": "8 Pieces, 2 Regular Chips & 2 Sides",
+          "image": "/media/meals/party-meal.webp"
+        },
+        {
+          "id": 1965,
+          "slug": "jumbo-meal",
+          "title": "Jumbo Meal",
+          "price_label": "N$229.00",
+          "description": "10 Pieces & 4 Regular Chips",
+          "image": "/media/meals/jumbo-meal.webp"
+        }
+      ]
+    },
+    {
+      "slug": "buckets",
+      "title": "Buckets",
+      "items": [
+        {
+          "id": 1973,
+          "slug": "7-piece-bucket",
+          "title": "6 Piece Bucket",
+          "price_label": "N$129.00",
+          "description": "",
+          "image": "/media/meals/7-piece-bucket.webp"
+        },
+        {
+          "id": 4041,
+          "slug": "9-piece",
+          "title": "10 Piece Bucket",
+          "price_label": "N$199.00",
+          "description": "",
+          "image": "/media/meals/9-piece.webp"
+        },
+        {
+          "id": 1974,
+          "slug": "15-piece-bucket",
+          "title": "15 Piece Bucket",
+          "price_label": "N$289.00",
+          "description": "15 Piece",
+          "image": "/media/meals/15-piece-bucket.webp"
+        },
+        {
+          "id": 1975,
+          "slug": "21-piece-bucket",
+          "title": "20 Piece Bucket",
+          "price_label": "N$369.00",
+          "description": "",
+          "image": "/media/meals/21-piece-bucket.webp"
+        }
+      ]
+    },
+    {
+      "slug": "winglets",
+      "title": "Winglets",
+      "items": [
+        {
+          "id": 1900,
+          "slug": "4-zamba-spicy-winglets-2",
+          "title": "4 ZAMBA SPICY WINGLETS",
+          "price_label": "N$29.90",
+          "description": "",
+          "image": "/media/meals/4-zamba-spicy-winglets-2.webp"
+        },
+        {
+          "id": 4018,
+          "slug": "6-zamba-winglets",
+          "title": "6 Zamba Spicy Winglets",
+          "price_label": "N$48.90",
+          "description": "",
+          "image": "/media/meals/6-zamba-winglets.webp"
+        },
+        {
+          "id": 1928,
+          "slug": "zamba-wing-combo-2",
+          "title": "Zamba Wing Combo",
+          "price_label": "N$79.00",
+          "description": "6x Zamba winglets, regular chips, 300ml drink",
+          "image": "/media/meals/zamba-wing-combo-2.jpg"
+        },
+        {
+          "id": 4037,
+          "slug": "10-zamba-spicy-winglets",
+          "title": "10 Zamba Spicy Winglets",
+          "price_label": "N$79.00",
+          "description": "",
+          "image": "/media/meals/10-zamba-spicy-winglets.webp"
+        },
+        {
+          "id": 4038,
+          "slug": "20-zamba-spicy-winglets",
+          "title": "20 Zamba Spicy Winglets",
+          "price_label": "N$149.00",
+          "description": "",
+          "image": "/media/meals/20-zamba-spicy-winglets.webp"
+        },
+        {
+          "id": 4772,
+          "slug": "sticky-wing-it",
+          "title": "Sticky Wing It",
+          "price_label": "N$45.00",
+          "description": "",
+          "image": "/media/meals/sticky-wing-it.jpg"
+        },
+        {
+          "id": 4768,
+          "slug": "6-sticky-wings",
+          "title": "6 Sticky Wings",
+          "price_label": "N$55.00",
+          "description": "",
+          "image": "/media/meals/6-sticky-wings.jpg"
+        },
+        {
+          "id": 4771,
+          "slug": "sticky-wing-combo",
+          "title": "Sticky Wing Combo",
+          "price_label": "N$79.00",
+          "description": "",
+          "image": "/media/meals/sticky-wing-combo.jpg"
+        },
+        {
+          "id": 4769,
+          "slug": "10-sticky-wings",
+          "title": "10 Sticky Wings",
+          "price_label": "N$85.00",
+          "description": "",
+          "image": "/media/meals/10-sticky-wings.jpg"
+        },
+        {
+          "id": 4770,
+          "slug": "20-sticky-wings",
+          "title": "20 Sticky Wings",
+          "price_label": "N$165.00",
+          "description": "",
+          "image": "/media/meals/20-sticky-wings.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "burgers",
+      "title": "Burgers",
+      "items": [
+        {
+          "id": 1896,
+          "slug": "munch-burger",
+          "title": "Munch Burger",
+          "price_label": "N$34.90",
+          "description": "",
+          "image": "/media/meals/munch-burger.png"
+        },
+        {
+          "id": 4007,
+          "slug": "munch-meal",
+          "title": "Munch Meal",
+          "price_label": "N$59.90",
+          "description": "munch burger, regular chips, 300ml drink",
+          "image": "/media/meals/munch-meal.webp"
+        },
+        {
+          "id": 1898,
+          "slug": "double-munch-burger",
+          "title": "Double Munch Burger",
+          "price_label": "N$52.90",
+          "description": "",
+          "image": "/media/meals/double-munch-burger.png"
+        },
+        {
+          "id": 1916,
+          "slug": "double-munch-burger-meal",
+          "title": "Double Munch Meal",
+          "price_label": "N$72.90",
+          "description": "Double Munch Burger, Regular Chips & 300ml Drink",
+          "image": "/media/meals/double-munch-burger-meal.webp"
+        },
+        {
+          "id": 1918,
+          "slug": "big-boss-cheese",
+          "title": "Big Boss Cheese Burger",
+          "price_label": "N$44.90",
+          "description": "",
+          "image": "/media/meals/big-boss-cheese.png"
+        },
+        {
+          "id": 4015,
+          "slug": "big-boss-cheese-meal",
+          "title": "Big Boss Cheese Meal",
+          "price_label": "N$69.90",
+          "description": "Big Boss Cheese Burger, Regular Chips and 300ml Drink",
+          "image": "/media/meals/big-boss-cheese-meal.webp"
+        },
+        {
+          "id": 1919,
+          "slug": "double-big-boss-burger",
+          "title": "Double Big Boss Burger",
+          "price_label": "N$59.90",
+          "description": "",
+          "image": "/media/meals/double-big-boss-burger.png"
+        },
+        {
+          "id": 4016,
+          "slug": "double-big-boss-burger-meal",
+          "title": "Double Big Boss Meal",
+          "price_label": "N$84.90",
+          "description": "DOUBLE BIG BOSS BURGER, REGULAR CHIPS & 300ML COKE",
+          "image": "/media/meals/double-big-boss-burger-meal.webp"
+        },
+        {
+          "id": 1922,
+          "slug": "triiiple-big-boss-burger",
+          "title": "Triiiple Big Boss Burger",
+          "price_label": "N$74.90",
+          "description": "",
+          "image": "/media/meals/triiiple-big-boss-burger.png"
+        },
+        {
+          "id": 1924,
+          "slug": "triiiple-big-boss-burger-meal",
+          "title": "Triiiple Big Boss Meal",
+          "price_label": "N$99.90",
+          "description": "Triiiple Big Boss Burger, Regular Chips and 300ml drink",
+          "image": "/media/meals/triiiple-big-boss-burger-meal.webp"
+        }
+      ]
+    },
+    {
+      "slug": "chickenfingers",
+      "title": "Chicken Fingers",
+      "items": [
+        {
+          "id": 5071,
+          "slug": "chicken-finger-meal",
+          "title": "Chicken Finger Meal",
+          "price_label": "N$56.90",
+          "description": "",
+          "image": "/media/meals/chicken-finger-meal.webp"
+        },
+        {
+          "id": 5081,
+          "slug": "3-chicken-fingers-1-dippa",
+          "title": "3 Chicken Fingers & 1 Dippa",
+          "price_label": "N$29.90",
+          "description": "",
+          "image": "/media/meals/3-chicken-fingers-1-dippa.jpg"
+        },
+        {
+          "id": 5080,
+          "slug": "6-chicken-fingers-2-dippas",
+          "title": "6 Chicken Fingers & 2 Dippas",
+          "price_label": "N$56.90",
+          "description": "",
+          "image": "/media/meals/6-chicken-fingers-2-dippas.webp"
+        },
+        {
+          "id": 5079,
+          "slug": "10-chicken-fingers-3-dippas",
+          "title": "10 Chicken Fingers & 3 Dippas",
+          "price_label": "N$89.90",
+          "description": "",
+          "image": "/media/meals/10-chicken-fingers-3-dippas.webp"
+        },
+        {
+          "id": 5078,
+          "slug": "chicken-finger-feast",
+          "title": "Chicken Finger Feast",
+          "price_label": "N$119.00",
+          "description": "",
+          "image": "/media/meals/chicken-finger-feast.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "extras",
+      "title": "Extras",
+      "items": [
+        {
+          "id": 5356,
+          "slug": "sweet-mayo-dippa",
+          "title": "Sweet Mayo Dippa",
+          "price_label": "N$5.90",
+          "description": "",
+          "image": "/media/meals/sweet-mayo-dippa.webp"
+        },
+        {
+          "id": 1933,
+          "slug": "tangy-tomato-dippa",
+          "title": "Tangy Tomato Dippa",
+          "price_label": "N$5.90",
+          "description": "",
+          "image": "/media/meals/tangy-tomato-dippa.png"
+        },
+        {
+          "id": 1934,
+          "slug": "spicy-zamba-dippa",
+          "title": "Spicy Zamba Dippa",
+          "price_label": "N$5.90",
+          "description": "",
+          "image": "/media/meals/spicy-zamba-dippa.webp"
+        },
+        {
+          "id": 1935,
+          "slug": "wing-hot-sauce",
+          "title": "Wing Hot Sauce",
+          "price_label": "N$5.90",
+          "description": "",
+          "image": "/media/meals/wing-hot-sauce.webp"
+        },
+        {
+          "id": 1936,
+          "slug": "bbq-dippa",
+          "title": "BBQ Dippa",
+          "price_label": "N$5.90",
+          "description": "",
+          "image": "/media/meals/bbq-dippa.webp"
+        },
+        {
+          "id": 1937,
+          "slug": "dixie-roll",
+          "title": "Dixie Roll",
+          "price_label": "N$8.90",
+          "description": "",
+          "image": "/media/meals/dixie-roll.webp"
+        },
+        {
+          "id": 1939,
+          "slug": "coleslaw",
+          "title": "Coleslaw",
+          "price_label": "N$13.90",
+          "description": "",
+          "image": "/media/meals/coleslaw.webp"
+        },
+        {
+          "id": 1941,
+          "slug": "regular-chips",
+          "title": "REGULAR CHIPS",
+          "price_label": "N$22.90",
+          "description": "",
+          "image": "/media/meals/regular-chips.webp"
+        },
+        {
+          "id": 1940,
+          "slug": "one-piece",
+          "title": "One Piece",
+          "price_label": "N$23.90",
+          "description": "",
+          "image": "/media/meals/one-piece.webp"
+        },
+        {
+          "id": 1942,
+          "slug": "large-chips",
+          "title": "Large Chips",
+          "price_label": "N$26.90",
+          "description": "",
+          "image": "/media/meals/large-chips.webp"
+        },
+        {
+          "id": 1943,
+          "slug": "xl-chips",
+          "title": "XL CHIPS",
+          "price_label": "N$42.90",
+          "description": "",
+          "image": "/media/meals/xl-chips.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "sweettreats",
+      "title": "Sweet Treats",
+      "items": [
+        {
+          "id": 1953,
+          "slug": "vanilla-sundae",
+          "title": "VANILLA SUNDAE",
+          "price_label": "N$11.90",
+          "description": "",
+          "image": "/media/meals/vanilla-sundae.jpg"
+        },
+        {
+          "id": 1954,
+          "slug": "caramel-dipped-sundae",
+          "title": "Caramel Dipped Sundae",
+          "price_label": "N$14.90",
+          "description": "",
+          "image": "/media/meals/caramel-dipped-sundae.webp"
+        },
+        {
+          "id": 1955,
+          "slug": "chocolate-dipped-sundae",
+          "title": "Chocolate Dipped Sundae",
+          "price_label": "N$14.90",
+          "description": "",
+          "image": "/media/meals/chocolate-dipped-sundae.webp"
+        },
+        {
+          "id": 1956,
+          "slug": "king-sized-vanilla-sundae",
+          "title": "King-Sized Vanilla Sundae",
+          "price_label": "N$14.90",
+          "description": "",
+          "image": "/media/meals/king-sized-vanilla-sundae.webp"
+        },
+        {
+          "id": 1957,
+          "slug": "unicorn-sundae",
+          "title": "Unicorn Sundae",
+          "price_label": "N$19.90",
+          "description": "",
+          "image": "/media/meals/unicorn-sundae.webp"
+        },
+        {
+          "id": 1958,
+          "slug": "fruity-sundae",
+          "title": "Fruity Sundae",
+          "price_label": "N$19.90",
+          "description": "",
+          "image": "/media/meals/fruity-sundae.webp"
+        },
+        {
+          "id": 1959,
+          "slug": "mint-tart-sundae",
+          "title": "Mint Tart Sundae",
+          "price_label": "N$26.90",
+          "description": "",
+          "image": "/media/meals/mint-tart-sundae.webp"
+        }
+      ]
+    },
+    {
+      "slug": "drinks",
+      "title": "Drinks",
+      "items": [
+        {
+          "id": 4051,
+          "slug": "300ml-pespi-can",
+          "title": "300ml pespi (can)",
+          "price_label": "N$12.90",
+          "description": "",
+          "image": "/media/meals/300ml-pespi-can.webp"
+        },
+        {
+          "id": 1946,
+          "slug": "mineral-water",
+          "title": "MINERAL WATER",
+          "price_label": "N$13.90",
+          "description": "",
+          "image": "/media/meals/mineral-water.webp"
+        },
+        {
+          "id": 4052,
+          "slug": "500ml-pepsi",
+          "title": "500ml Pepsi",
+          "price_label": "N$14.90",
+          "description": "",
+          "image": "/media/meals/500ml-pepsi.webp"
+        },
+        {
+          "id": 1947,
+          "slug": "score",
+          "title": "SCORE",
+          "price_label": "N$15.90",
+          "description": "",
+          "image": "/media/meals/score.webp"
+        },
+        {
+          "id": 1948,
+          "slug": "300ml-cans",
+          "title": "300ML Cans",
+          "price_label": "N$15.90",
+          "description": "A SELECTION OF 300ML DRINKS",
+          "image": "/media/meals/300ml-cans.webp"
+        },
+        {
+          "id": 4053,
+          "slug": "coke-600ml",
+          "title": "COKE 600ML",
+          "price_label": "N$17.90",
+          "description": "",
+          "image": "/media/meals/coke-600ml.webp"
+        },
+        {
+          "id": 4030,
+          "slug": "coke-1-25l",
+          "title": "COKE 1.25L",
+          "price_label": "N$24.90",
+          "description": "",
+          "image": "/media/meals/coke-1-25l.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "dailydeals",
+      "title": "Daily Deals",
+      "items": [
+        {
+          "id": 4044,
+          "slug": "tuesday-two",
+          "title": "TUESDAY TWO: 2 X BIG BITE 2",
+          "price_label": "N$87.00",
+          "description": "4 PIECES OF CHICKEN & 2X REGULAR CHIPS",
+          "image": "/media/meals/tuesday-two.jpg"
+        },
+        {
+          "id": 1903,
+          "slug": "thursday-buckets",
+          "title": "Thursday Buckets",
+          "price_label": "N$109.00\nN$169.00\nN$239.00\nN$299.00",
+          "description": "",
+          "image": "/media/meals/thursday-buckets.webp"
+        }
+      ]
+    }
+  ],
+  "slides": [
+    {
+      "alt": "Chicken Fingers",
+      "href": "/menu/chickenfingers",
+      "desktop": "/media/hero/slide-1-desktop.webp",
+      "mobile": "/media/hero/slide-1-mobile.webp"
+    },
+    {
+      "alt": "Chicken Finger Meal",
+      "href": "/menu/chickenfingers",
+      "desktop": "/media/hero/slide-2-desktop.webp",
+      "mobile": "/media/hero/slide-2-mobile.webp"
+    },
+    {
+      "alt": "Chicken Finger Feast",
+      "href": "/menu/chickenfingers",
+      "desktop": "/media/hero/slide-3-desktop.webp",
+      "mobile": "/media/hero/slide-3-mobile.webp"
+    },
+    {
+      "alt": "Bucket hat promo",
+      "href": "/menu",
+      "desktop": "/media/hero/slide-4-desktop.webp",
+      "mobile": "/media/hero/slide-4-mobile.webp"
+    },
+    {
+      "alt": "Munch Burger",
+      "href": "/menu/burgers",
+      "desktop": "/media/hero/slide-5-desktop.webp",
+      "mobile": "/media/hero/slide-5-mobile.webp"
+    },
+    {
+      "alt": "Double Big Boss",
+      "href": "/menu/burgers",
+      "desktop": "/media/hero/slide-6-desktop.webp",
+      "mobile": "/media/hero/slide-6-mobile.webp"
+    },
+    {
+      "alt": "Hungry Lion special",
+      "href": "/menu/dailydeals",
+      "desktop": "/media/hero/slide-7-desktop.jpg",
+      "mobile": "/media/hero/slide-7-mobile.jpg"
+    }
+  ],
+  "brand": {
+    "logo": "/media/brand/logo.png",
+    "logo_footer": "/media/brand/logo-footer.webp",
+    "crown": "/media/brand/crown.svg",
+    "favicon": "/media/brand/favicon-32.png",
+    "icon": "/media/brand/icon-192.png"
+  },
+  "partners": [
+    {
+      "name": "Dial-a-Meal",
+      "url": "https://damnam.biz/",
+      "image": "/media/partners/dial-a-meal.jpg"
+    },
+    {
+      "name": "Buddy",
+      "url": "https://buddy.industries/customer.html",
+      "image": "/media/partners/buddy.jpg"
+    }
+  ]
+}

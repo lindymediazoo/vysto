@@ -1,0 +1,3 @@
+/storage/*.jsonl
+/storage/*.log
+.DS_Store
